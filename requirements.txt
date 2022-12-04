@@ -1,0 +1,12 @@
+Python Package need to install before using:
+    geopandas
+    BeautifulSoup 4
+    re(regular expression)
+    Urllib3
+    pandas
+    matplotlib
+    sqlalchemy
+    numpy
+    pyarrow
+    keplergl
+    
