@@ -1,4 +1,10 @@
 
+<<<<<<< Updated upstream
 *.parquet
 .DS_Store
 *.ipynb
+=======
+*.ipynb
+.DS_Store
+.DS_Store
+>>>>>>> Stashed changes
