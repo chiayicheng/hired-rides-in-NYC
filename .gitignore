@@ -1,3 +1,4 @@
 
 *.parquet
 .DS_Store
+*.ipynb
