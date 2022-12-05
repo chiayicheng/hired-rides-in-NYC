@@ -1,3 +1,11 @@
 
 *.parquet
 .DS_Store
+*.csv
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.xml
+*.shx
