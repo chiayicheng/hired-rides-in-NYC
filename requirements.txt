@@ -1,12 +1,10 @@
 Python Package need to install before using:
-    geopandas
-    BeautifulSoup 4
-    re(regular expression)
-    Urllib3
-    pandas
-    matplotlib
-    sqlalchemy
-    numpy
-    pyarrow
-    keplergl
+    geopandas==0.12.1
+    BeautifulSoup4==4.11.1
+    requests==2.28.1
+    pandas==1.4.4
+    matplotlib==3.5.2
+    numpy==1.21.5
+    pyarrow==10.0.0
+    keplergl==0.3.2
     
