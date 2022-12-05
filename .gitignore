@@ -1,11 +1,10 @@
 
+<<<<<<< Updated upstream
 *.parquet
 .DS_Store
-*.csv
-*.dbf
-*.prj
-*.sbn
-*.sbx
-*.shp
-*.xml
-*.shx
+*.ipynb
+=======
+*.ipynb
+.DS_Store
+.DS_Store
+>>>>>>> Stashed changes
