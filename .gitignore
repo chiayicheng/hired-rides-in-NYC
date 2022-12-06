@@ -19,3 +19,6 @@ taxi_zones.shx
 uber_rides_sample.csv
 .ipynb_checkpoints
 *.db
+*.csv
+.ipynb_checkpoints/final-checkpoint.ipynb
+set.gif
