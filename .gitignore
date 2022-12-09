@@ -1,14 +1,7 @@
 
-<<<<<<< Updated upstream
-*.parquet
-.DS_Store
-*.ipynb
-=======
-*.ipynb
-.DS_Store
-.DS_Store
->>>>>>> Stashed changes
-2009_weather.csv
+*.csv
+*.gif
+project.db
 taxi_zones.dbf
 taxi_zones.prj
 taxi_zones.sbn
@@ -16,10 +9,9 @@ taxi_zones.sbx
 taxi_zones.shp
 taxi_zones.shp.xml
 taxi_zones.shx
-uber_rides_sample.csv
-.ipynb_checkpoints
-*.db
-*.csv
+*.parquet
 .ipynb_checkpoints/final-checkpoint.ipynb
-set.gif
-.ipynb_checkpoints/final-checkpoint.ipynb
+*.gif
+ec1.gif
+*.gif
+ec1.gif
